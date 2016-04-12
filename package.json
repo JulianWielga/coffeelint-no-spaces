@@ -1,11 +1,8 @@
 {
   "name": "coffeelint-no-spaces",
   "version": "1.0.0",
-  "description": "Coffeelint no-spaces rule",
+  "description": "This rule forbids spaces in indentation",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "coffeelintrule"
   ],
