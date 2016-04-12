@@ -1,6 +1,6 @@
 {
   "name": "coffeelint-no-spaces",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Coffeelint no-spaces rule",
   "main": "index.js",
   "scripts": {
